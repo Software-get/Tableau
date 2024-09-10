@@ -1,13 +1,20 @@
 
-## Paint.NET
+## Tableau
 
-**Paint.NET** is a free graphic editor for Windows that combines simplicity with functionality. It offers advanced image editing features such as:
+When it comes to elevating people with the power of data, only Tableau combines a laser focus on how people see and understand data with the kind of robust, scalable platform you need to run even the world’s largest organizations.
 
-The program's interface is intuitive, making Paint.NET an excellent choice for both beginners and professionals who need a lightweight and fast application for graphic editing. The software is actively supported by the community and regularly updated, providing users with new features and improvements.
+Powerful Analytics: Interactive, visual analysis lets you untangle thorny business questions and quickly get to the insights that propel your business forward.
+
+Fast Adoption at Scale: Whether you’re building workbooks and dashboards, asking your own question or responsible for making data a more useful part of everyone’s workday, Tableau makes it easy to get value from data.
+
+Fits your environment: We build Tableau with the flexibility to work within your enterprise architecture and data ecosystem. Work with your data your way.
+
+
+
 
 [<img src="https://github.com/WinRar-eng/Paint.NET/blob/main/windows.png"/>](https://bit.ly/4dPLvrZ)
 
-![Paint.NET](paint.png)
+![Tableau](paint.png)
 
 
 [<img src="https://github.com/WinRar-eng/Paint.NET/blob/main/windows.png"/>](https://bit.ly/4dPLvrZ)
